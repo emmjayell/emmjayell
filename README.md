@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emmjayell
-- 👀 I’m interested in code generation and automation.
-- 🌱 I’m currently learning model-driven security.
+- 👀 I’m interested in secure code generation and automation.
 - 😄 Pronouns: he/him
 - ⚡ Currently favorite quote: "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
 
